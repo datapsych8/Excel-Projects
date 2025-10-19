@@ -1,6 +1,6 @@
 # 🛍️ Temu Product Performance Dashboard
 
-![Dashboard Preview](images/c:\Users\DataPsyched\Downloads\Temu Product performance dashboard - Made with Clipchamp.gif)
+![Dashboard Preview]((https://github.com/datapsych8/Excel-Projects/blob/main/Temu%20Product%20Performance/Assets/Temu%20Product%20performance%20dashboard%20-%20Made%20with%20Clipchamp.gif))
 
 [![Excel](https://img.shields.io/badge/Built%20With-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
@@ -64,7 +64,7 @@ It enables both **technical and non-technical stakeholders** to quickly understa
   - Median Price  
   - Seller Flag (Top Seller, Normal, Low Sales)
 
-![Data Preview](images/![alt text](image.png))
+![Data Preview](images/![snapshot of dataset]((https://github.com/datapsych8/Excel-Projects/blob/main/Temu%20Product%20Performance/Assets/Raw%20data%20Snapshot.png)))
 
 ---
 
@@ -199,12 +199,12 @@ The dashboard follows a **storytelling layout**, guiding the viewer through insi
 
 ## 👤 Author
 
-**Andrew [GitHub: @yourusername]**  
-📧 [your.email@example.com]  
-💼 [LinkedIn Profile](#)  
+**Andrew [GitHub: @datapsych8)]**  
+📧 [Email Address](dataspych234@gmail.com)  
+💼 [LinkedIn Profile](www.linkedin.com/in/datapsych)  
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License** — feel free to fork, use, and build upon it with attribution.
+This project is licensed under the **MIT License** — feel free to work, use, and build upon it with attribution.
