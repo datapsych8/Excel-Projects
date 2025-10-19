@@ -1,11 +1,12 @@
 # 🛍️ Temu Product Performance Dashboard
 
-![Dashboard Preview]((https://github.com/datapsych8/Excel-Projects/blob/main/Temu%20Product%20Performance/Assets/Temu%20Product%20performance%20dashboard%20-%20Made%20with%20Clipchamp.gif))
+![Dashboard Overview](https://github.com/user-attachments/assets/5b88e101-517d-4cc4-bd1b-b9408177f8fa)
+ 
 
 [![Excel](https://img.shields.io/badge/Built%20With-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)]()
-[![Made with 💡](https://img.shields.io/badge/Made%20with%20💡-Data%20Analysis%20and%20Visualization-orange?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENSE)
+[![Made with 📊](https://img.shields.io/badge/Made%20with%20📊-Data%20Storytelling%20%26%20Visualization-orange?style=for-the-badge)]()
 
 ---
 
@@ -64,7 +65,8 @@ It enables both **technical and non-technical stakeholders** to quickly understa
   - Median Price  
   - Seller Flag (Top Seller, Normal, Low Sales)
 
-![Data Preview](images/![snapshot of dataset]((https://github.com/datapsych8/Excel-Projects/blob/main/Temu%20Product%20Performance/Assets/Raw%20data%20Snapshot.png)))
+<img width="967" height="487" alt="Dataset snapshot" src="https://github.com/user-attachments/assets/487244b2-c2de-415b-9f9f-ecdb7d6b3694" />
+
 
 ---
 
@@ -84,6 +86,7 @@ Performed in **Excel Power Query**:
 ```
 
 ---
+<img width="1578" height="327" alt="Performaers Formula" src="https://github.com/user-attachments/assets/bb04f678-c872-48d4-b223-c649ff2644e3" />
 
 ## 🧩 Data Modeling
 
@@ -108,6 +111,7 @@ DIVIDE(
     0
 )
 ```
+<img width="644" height="438" alt="Dax formula" src="https://github.com/user-attachments/assets/90cde374-575f-4314-9b3d-86b7f46451ec" />
 
 ---
 
@@ -125,9 +129,13 @@ The dashboard follows a **storytelling layout**, guiding the viewer through insi
 | Chart 4 | Scatter Plot | Ratings vs Sales Volume |
 | Chart 5 | Treemap | Subcategory Contribution |
 
+<img width="1559" height="699" alt="Dashboard" src="https://github.com/user-attachments/assets/9cdb9c81-885f-4f37-9454-adf400d9f11b" />
+
 ### 🔹 Slicers Added:
 - **Price Tier** (Ultra Low → Ultra High)  
-- **Seller Flag** (Top Seller, Low Sales, Normal)  
+- **Seller Flag** (Top Seller, Low Sales, Normal)
+  
+<img width="298" height="243" alt="Slicers" src="https://github.com/user-attachments/assets/02e9014f-3244-4133-a3bb-dd178789de6b" />
 
 ---
 
@@ -172,7 +180,7 @@ The dashboard follows a **storytelling layout**, guiding the viewer through insi
 | **DAX** | Advanced metric calculation |
 | **Excel Charts & Slicers** | Visualization & interactivity |
 | **Conditional Formatting** | KPI visualization |
-| **GitHub Markdown + PDF Export** | Documentation |
+| **GitHub Markdown + Powerpoint for Presentation** | Documentation |
 
 ---
 
@@ -189,11 +197,11 @@ The dashboard follows a **storytelling layout**, guiding the viewer through insi
 
 ## 🖼️ Image Gallery
 
-- ![Dashboard Overview](images/dashboard_overview.png)
-- ![KPI Section](images/kpi_cards.png)
-- ![Pivot Table Example](images/pivot_example.png)
-- ![Treemap Visualization](images/treemap.png)
-- ![Data Model View](images/data_model.png)
+- ![Dashboard Overview](https://github.com/user-attachments/assets/5b88e101-517d-4cc4-bd1b-b9408177f8fa)
+- ![KPI Section](<img width="976" height="78" alt="Kpi card" src="https://github.com/user-attachments/assets/47f4b37e-75fd-43fd-8d75-d3769858d309" />)
+- ![Pivot Table Example](<img width="1058" height="313" alt="pivot table snapshot" src="https://github.com/user-attachments/assets/4b128488-ef6e-43df-ba2d-4d18abfd756e" />)
+- ![Treemap Visualization](<img width="313" height="285" alt="Treemap" src="https://github.com/user-attachments/assets/506e1ede-f068-4fa2-acfc-77daa74e9e96" />)
+- ![Data Model View](<img width="1505" height="684" alt="Data Model" src="https://github.com/user-attachments/assets/07febf61-3bd8-4a04-8e3a-b7b1b8eeda8b" />)
 
 ---
 
