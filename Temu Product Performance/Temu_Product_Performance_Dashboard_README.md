@@ -198,10 +198,10 @@ The dashboard follows a **storytelling layout**, guiding the viewer through insi
 ## 🖼️ Image Gallery
 
 - ![Dashboard Overview](https://github.com/user-attachments/assets/5b88e101-517d-4cc4-bd1b-b9408177f8fa)
-- ![KPI Section](<img width="976" height="78" alt="Kpi card" src="https://github.com/user-attachments/assets/47f4b37e-75fd-43fd-8d75-d3769858d309" />)
-- ![Pivot Table Example](<img width="1058" height="313" alt="pivot table snapshot" src="https://github.com/user-attachments/assets/4b128488-ef6e-43df-ba2d-4d18abfd756e" />)
-- ![Treemap Visualization](<img width="313" height="285" alt="Treemap" src="https://github.com/user-attachments/assets/506e1ede-f068-4fa2-acfc-77daa74e9e96" />)
-- ![Data Model View](<img width="1505" height="684" alt="Data Model" src="https://github.com/user-attachments/assets/07febf61-3bd8-4a04-8e3a-b7b1b8eeda8b" />)
+- <img width="976" height="78" alt="Kpi card" src="https://github.com/user-attachments/assets/47f4b37e-75fd-43fd-8d75-d3769858d309" />
+- <img width="1058" height="313" alt="pivot table snapshot" src="https://github.com/user-attachments/assets/4b128488-ef6e-43df-ba2d-4d18abfd756e" />
+- <img width="313" height="285" alt="Treemap" src="https://github.com/user-attachments/assets/506e1ede-f068-4fa2-acfc-77daa74e9e96" />
+- <img width="1505" height="684" alt="Data Model" src="https://github.com/user-attachments/assets/07febf61-3bd8-4a04-8e3a-b7b1b8eeda8b" />
 
 ---
 
